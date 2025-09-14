@@ -255,4 +255,107 @@ What are REST APIs, how do you build them, and why are they used?
 Explain Swagger documentation and its role in API development.
 
 Describe the SAGA and CQRS design patterns with real-life issues and solutions.
+
+
+--------------------------------------------------------
+Project Structure
+Project  Domain
+Skills
+Experience
+How to make class Immutable
+How Java is platform independent - jvm is platform dependent but bytecode is independent
+Abstract class vs Interface
+Polymorphism
+Can we override static and private methods why
+Why Multiple Inheritance not supported in java
+Method Overloading vs Method Overriding
+Can we Execute program without main method
+What is String ? How Strings can be created
+Why String Objects are Immutable
+What is Mutable Strings
+What is Exception Handling
+Base class Exception
+Diff bet Checked ExceptionUncheked Exception
+What is Custom Exception
+If try block return s something will finally block get executed
+Difference bet Throw and Throws
+What is Collection
+Difference bet ArrayList vs LinkedList
+Internal working of Hashmap
+List vs Set
+Comparable Vs Comparator
+Design Patterens of Java
+Singleton Design pattern
+Early Design pattern and Lazy Design Patteren
+Java 8 Features
+Functional Interface
+Stream API and Types
+Lamada Expression
+Optional Class
+Features of Spring
+IOC Container
+Dependency Injection
+Bean,Autowire,Qualifier
+Spring Features
+Starter Dependencies
+SpringBootApplication
+Configuration vs ComponentScan
+Can we disable Port in SpringBootApplication
+Spring Actuators
+Restcontroller vc Controller
+Spring Profile
+Spring Security
+REST vs Soap
+HTTP Methods and code
+PUT vs Patch
+RequestParam vs PatParam
+What is Thread . Lifecycle of Thread
+How to create Thread
+What is Synchronization
+How to deploy application on different envs
+How microservices communicate
+Can we add remove and add diff server in spring boot application
+Query Annotation
+how exception handling works
+Default Capcity of Arraylist
+Why Functional interface has only one abstarct method
+What is Microservices
+What issues are generally solved by spring clouds?
+Explain the workings of Java Microservices Architecture.
+transient @Service
+ 
+ 
+Problem Statement
+How do you check if a list of integers contains only odd numbers in Java?
+How do you check whether a string is a palindrome in Java?
+Find second largest No of array
+write a Java program to find the duplicate numbers in a list = [1,5, 9, 13, 5, 2, 10, 2 , 1]  using streams API
+Write a program that handle Airthemetic Excepetion
+Find the occurance of each word "Pen", "Eraser", "Note Book", "Pen", "Pencil", "Stapler", "Note Book", "Pencil"
+Remove duplicate elements of array
+sort list in reverse order
+Find the Maximum Number and Minimum Number in a List
+What is the op :  String s = "Sachin"; s.concat(" Tendulkar");  System.out.println(s);
+
+
+------------------------------------------------------------------
+Hashmap Interview Questions
+ 
+Why is ConcurrentHashMap fail-safe?
+ConcurrentHashMap is a fail-safe collection, which means that multiple threads can access it simultaneously without throwing any exceptions.
+This is because a ConcurrentHashMap uses a technique called “locking” to control concurrent access.
+What is the difference between hashmap and ConcurrentHashMap ?
+why get concurrentModification Exception ?
+What will happen if two different keys of HashMap return the same hashcode()
+What will happen if you use HashMap in a multithreaded Java application
+How does Hashmap internally Works
+Internal working of hashmap. how to avoid collision?
+What are the differences between `HashMap` and `ConcurrentHashMap`? 
+Hashmap collision insertion process. How equals and hascode works.
+In hashmap 1key contains two values which value will retrive first.
+concurrent hashmap nd how to implement
+
+
+
+
  
